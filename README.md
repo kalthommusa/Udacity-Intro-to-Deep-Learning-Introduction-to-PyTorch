@@ -47,7 +47,7 @@ ImageNet is a massive dataset with over 1 million labeled images in 1000 categor
 
 ****************************************************************************************************************
 
-## This repo contains my reimplementation of (Udacity's Deep Learning with PyTorch)[https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch] lessons:
+## This repo contains my reimplementation of [Udacity's Deep Learning with PyTorch](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch) lessons:
 
 * lesson 1: Introduction to PyTorch and using tensors
 * lesson 2: Building fully-connected neural networks with PyTorch
