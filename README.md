@@ -45,6 +45,13 @@ Fashion-MNIST is a dataset of 28x28 greyscale images of clothes. It's more compl
 
 ImageNet is a massive dataset with over 1 million labeled images in 1000 categories. It's used to train deep neural networks using an architecture called convolutional layers.
 
+
+## What is Transfer learning?
+
+Transfer learning is an optimization approach in deep learning (and machine learning) where knowledge is transferred from one model to another.
+
+Using transfer learning, we can solve a particular task using full or part of an already pre-trained model in a different task to save time or get better performance.
+
 ****************************************************************************************************************
 
 ## This repo contains my reimplementation of [Udacity's Deep Learning with PyTorch](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch) lessons:
